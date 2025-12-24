@@ -6,15 +6,15 @@
 <h3 align="left">Software Enigineer | Machine Learning Engineer</h3>
 
 <p align="left">
-I build responsive, user-focused web and mobile applications.<br/>
-Strong frontend foundation with practical backend experience.
+I build responsive, user-focused Web Applications.<br/>
+Strong frontend foundation with practical Backend experience and Machine Learning.
 </p>
 
 ---
 
 ### Current Focus
 - Developing <a href="https://github.com/nathanaelmbale/NFL-Big-Data-Bowl-2026---Prediction">NFL Big Data Bowl 2026 - Prediction</a>
-- Developing <a href="https://github.com/nathanaelmbale/NFL-Big-Data-Bowl-2026---Prediction">Microsoft - Cancer Prediction Model</a>
+- Developing <a href="https://github.com/nathanaelmbale/Microsoft---Cancer-Prediction-">Microsoft - Cancer Prediction Model</a>
 - Expanding my network
 
 ---
