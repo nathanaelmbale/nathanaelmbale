@@ -1,11 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanaelmbale&label=Profile%20views&color=0e75b6&style=flat" alt="nathanaelmbale" /> </p>
 
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com)
+<!-- [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com) -->
 
-<h1 align="center">Nathanael Mbale</h1>
+<h1 align="">Nathanael Mupoy Mbale</h1>
 <h3 align="left">Software Enigineer | Machine Learning Engineer</h3>
 
 <p align="left">
+Hi I am an NJIT student,
 I build responsive, user-focused Web Applications.<br/>
 Strong frontend foundation with practical Backend experience and Machine Learning.
 </p>
@@ -13,8 +14,8 @@ Strong frontend foundation with practical Backend experience and Machine Learnin
 ---
 
 ### Current Focus
-- Developing <a href="https://github.com/nathanaelmbale/NFL-Big-Data-Bowl-2026---Prediction">NFL Big Data Bowl 2026 - Prediction</a>
-- Developing <a href="https://github.com/nathanaelmbale/Microsoft---Cancer-Prediction-">Microsoft - Cancer Prediction Model</a>
+- Developing <a href="https://github.com/nathanaelmbale/mini_gemini_CLI/tree/main">Miniture Gemini CLI</a>
+<!-- - Developing <a href="https://github.com/nathanaelmbale/Microsoft---Cancer-Prediction-">Microsoft - Cancer Prediction Model</a> -->
 - Expanding my network
 
 ---
